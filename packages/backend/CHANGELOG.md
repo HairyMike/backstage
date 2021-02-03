@@ -1,5 +1,28 @@
 # example-backend
 
+## 0.2.14
+
+### Patch Changes
+
+- Updated dependencies [c777df180]
+- Updated dependencies [2430ee7c2]
+- Updated dependencies [6e612ce25]
+- Updated dependencies [e44925723]
+- Updated dependencies [a26668913]
+- Updated dependencies [025e122c3]
+- Updated dependencies [e9aab60c7]
+- Updated dependencies [24e47ef1e]
+- Updated dependencies [7881f2117]
+- Updated dependencies [529d16d27]
+- Updated dependencies [cdea0baf1]
+  - @backstage/plugin-techdocs-backend@0.5.5
+  - @backstage/backend-common@0.5.2
+  - @backstage/catalog-model@0.7.1
+  - @backstage/plugin-scaffolder-backend@0.6.0
+  - @backstage/plugin-app-backend@0.3.6
+  - @backstage/plugin-catalog-backend@0.5.6
+  - example-app@0.2.14
+
 ## 0.2.13
 
 ### Patch Changes
